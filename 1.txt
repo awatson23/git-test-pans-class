@@ -4,3 +4,7 @@ With chan
 This is Pan Branch only text
 
 This is something else in Pan Branch only
+
+Branch1 change
+
+Bnrach2 change
